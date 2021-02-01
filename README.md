@@ -1,9 +1,5 @@
-# Side-Project-1: Bird-Game
-A first step into solo 2D games design by Brayden Gates.
-
 ## Project Report
-Bird-Game Iteration 1:
-
+Bird-Bomb MVP
 
 
 ## Third-Party Assets
