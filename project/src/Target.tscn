@@ -30,9 +30,11 @@ animations = [ {
 } ]
 
 [sub_resource type="RectangleShape2D" id=2]
-extents = Vector2( 14.172, 44.2706 )
+extents = Vector2( 32.3212, 44.2706 )
 
-[node name="Target" type="RigidBody2D"]
+[node name="Target" type="RigidBody2D" groups=[
+"damageable",
+]]
 mode = 1
 script = ExtResource( 5 )
 __meta__ = {
